@@ -43,3 +43,5 @@
 - 1/2 tsp yeast nutrients @ 15
 
 ## Log:
+- Brewed, in the fermentor: 2019.12.08
+- Cracked / Tasted: 2020.01.19
