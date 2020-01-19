@@ -8,10 +8,10 @@
 
 ## Notes:
 - OG: 1.065
-- [FG: 1.018](FG_Reading.jpg)
+- [FG: 1.018](FG_Reading.jpg?raw=true)
 - Volume: 4.5gal
 - First Impressions: roast, maybe a bit of vanilla/coconut, light sweetness, butter upfront but fades fast.
-- [Rachel's Notes](Rachel_Tasting_Notes.jpg)
+- [Rachel's Notes](Rachel_Tasting_Notes.jpg?raw=true)
 
 ## Malt:
 
