@@ -27,7 +27,8 @@
 - Grain Init Temp: 60˚
 
 ### Boil
-- 6.5gal boil volume
+- 6.5gal pre-boil volume
+- 4.5gal post-boil volume
   
 ## Hops:
 - .75oz Target 12.5%a @ 60
@@ -44,5 +45,7 @@
 - 1/2 tsp yeast nutrients @ 15
 
 ## Log:
-- Brewed, in the fermentor: 2019.12.08
-- Cracked / Tasted: 2020.01.19
+- Brewed, in the fermentor on 2019.12.08
+- Cracked / Tasted on 2020.01.19
+- Kegged on 2020.01.019 @ 4:30pm; set at 30psi
+- Dropped to 13psi @ ...
